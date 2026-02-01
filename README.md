@@ -7,8 +7,6 @@ Interested in IoT, Electronics and Artificial Intelligence
 - C/C++
 - Python/MicroPython
 - ESP32, Arduino, Raspberry
-- GPIO, I2C
-- Git
 
 ## Current focus
 - Embedded systems
