@@ -1,7 +1,7 @@
 # Hi, I'm Eduardo 
 
 Embedded Systems & Software Developer  
-Interested in IoT, Electronics and Artificial Intelligence
+Interested in IoT and Electronics.
 
 ## Technologies
 - C/C++
