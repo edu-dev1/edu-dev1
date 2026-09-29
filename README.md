@@ -14,5 +14,5 @@ Interested in IoT and Electronics.
 ## Current focus
 - Embedded systems
 - IoT projects
-- AI applied to hardware
+- Web systems
 
