@@ -7,6 +7,9 @@ Interested in IoT and Electronics.
 - C/C++
 - Python/MicroPython
 - ESP32, Arduino, Raspberry
+- JavaScript
+- HTML
+- CSS
 
 ## Current focus
 - Embedded systems
